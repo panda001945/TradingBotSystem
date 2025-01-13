@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\MQL5\\Experts\\TradingBot.mq5||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SourceCode\\MQL5\\Experts\\TradingBot.mq5||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Experts\\TradingBot.ex5||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SourceCode\\Experts\\TradingBot.ex5||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ted\\Desktop\\TradingBotSystem\\Config\\PairsTimeframes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Config\\PairsTimeframes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ted\\Desktop\\TradingBotSystem\\Config\\BotConfig.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Config\\BotConfig.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\TradeExecution.mqh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SourceCode\\Include\\TradeExecution.mqh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\RiskManagement.mqh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SourceCode\\Include\\RiskManagement.mqh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\ALevelBreakout.mqh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SourceCode\\Include\\ALevelBreakout.mqh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\VLevelBreakout.mqh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SourceCode\\Include\\VLevelBreakout.mqh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\EngulfingPattern.mqh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SourceCode\\Include\\EngulfingPattern.mqh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradingBot.ex5",
+              "DocumentMoniker": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Experts\\TradingBot.ex5",
+              "RelativeDocumentMoniker": "SourceCode\\Experts\\TradingBot.ex5",
+              "ToolTip": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Experts\\TradingBot.ex5",
+              "RelativeToolTip": "SourceCode\\Experts\\TradingBot.ex5",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIlSURBVDhPdVNNSJRRFD3T/FWL0TKKCoOBGJSoTSLFBJELJSzMhVkrXZQ0RItwbbVzUVs3hSRSi5iFStSu0IhoijZt1OiHMCktUwebcb755nud\u002B94bP4epA\u002Bdy333nnu\u002B9\u002B2YC\u002BB9e9zYzTpoFTuHYSMbmPpRSW2xaDc/tI7dZXrbVSgQIm1biZXcP4zAZ1GugRPbixKMHZunDGEx1nma8Q34kG\u002BAGEpgrACvSR9TSpz4KhNQMVx/IBNmPk2NPjcHz9mnGBp1nWfoVBmrYsBmrNNxVBGLKFjCDlieNZgae840EHH5xgaXtIaDI3DLoKsR37zN7ohGt58xJqzEoORfINcy7QJTNIrIMFhVGm69isuWW2RONaEvORd\u002BgbWqJhRdY4vGKHha77yN1sJVfBkaT13Cm/ijOP7ut97RGtNKzYSAoOYrvqo98881DDCX78OrsIJub0Pr4BjLzHJNcSTSitTBDnDhSx/gZ32MxFGK6lDrcjsFkD9rGB5D5MatrGtEssDfLgDg63v82BmON44wd8CJ8pD1A2BxsayiCdZcDK0OukFjguXVtAp3T54zScw\u002BRTHLA/kUgz5wDXM/l/YFKTfZEI1rpIcwvrav2K\u002B92nHyLcCGAnX92QPzy9FdsrlkDDvwEIrlP1LwjQ\u002BR1pJdnzRU2Ix2X2hVyiCzvy9BS5F10fdkYoKDaoIx0fIRR/hOCYTZesnkF/Gesxj2SU9OXkfwfAP4CAa3oBNtdhNoAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-13T14:41:54.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PairsTimeframes.json",
+              "DocumentMoniker": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\Config\\PairsTimeframes.json",
+              "RelativeDocumentMoniker": "Config\\PairsTimeframes.json",
+              "ToolTip": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\Config\\PairsTimeframes.json",
+              "RelativeToolTip": "Config\\PairsTimeframes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T14:40:59.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BotConfig.ini",
+              "DocumentMoniker": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\Config\\BotConfig.ini",
+              "RelativeDocumentMoniker": "Config\\BotConfig.ini",
+              "ToolTip": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\Config\\BotConfig.ini",
+              "RelativeToolTip": "Config\\BotConfig.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2025-01-13T14:40:19.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TradingBot.mq5",
+              "DocumentMoniker": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\MQL5\\Experts\\TradingBot.mq5",
+              "RelativeDocumentMoniker": "SourceCode\\MQL5\\Experts\\TradingBot.mq5",
+              "ToolTip": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\MQL5\\Experts\\TradingBot.mq5",
+              "RelativeToolTip": "SourceCode\\MQL5\\Experts\\TradingBot.mq5",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADqSURBVDhPzZI/C0FRGIcvJSVZUL6AGJXBoGwWi0EZfBJ/BqXwAUw2n8Aim8lu9wEopQyyIF3P4cU93EOxeOrpd\u002B7pnve\u002B773X\u002BgnbtmX1PR5JjWk72CWq1ysNf66xO8j6glfymYikk83zYYWpQFiyySGPeNvTMBWISi4ljZjewZxI4AwXOME\u002BXRxJjU8jpLGIPRxT\u002BOV\u002BU4EaJjGGLbUBeSxclw9cR3DCU9U9a1Rd1RlDfeI7pg6c\u002BETFSvLO2wIycwdDuMURaryMwKEyUUL102Qwjnus0P6Q1HDr4IRZrGAAB5hyO/wPWNYZ6lg0povb774AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-13T14:39:29.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TradeExecution.mqh",
+              "DocumentMoniker": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\TradeExecution.mqh",
+              "RelativeDocumentMoniker": "SourceCode\\Include\\TradeExecution.mqh",
+              "ToolTip": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\TradeExecution.mqh",
+              "RelativeToolTip": "SourceCode\\Include\\TradeExecution.mqh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB1SURBVDhPY6AI/P//H8qiMjjUyhMDZRIETFAaHSyG0gQBLgOIBhQbwAilUQAwDECh6wjEpkB8xq76y36QODaAzwWzgFgSiGcDDSwEi2AB\u002BAzwANpcBKKBuBIsQiyAegEO0PnIYOBjgWYGREFpGEDnDxrAwAAAtK4W9Tukx8AAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-01-13T14:38:32.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RiskManagement.mqh",
+              "DocumentMoniker": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\RiskManagement.mqh",
+              "RelativeDocumentMoniker": "SourceCode\\Include\\RiskManagement.mqh",
+              "ToolTip": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\RiskManagement.mqh",
+              "RelativeToolTip": "SourceCode\\Include\\RiskManagement.mqh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB1SURBVDhPY6AI/P//H8qiMjjUyhMDZRIETFAaHSyG0gQBLgOIBhQbwAilUQAwDECh6wjEpkB8xq76y36QODaAzwWzgFgSiGcDDSwEi2AB\u002BAzwANpcBKKBuBIsQiyAegEO0PnIYOBjgWYGREFpGEDnDxrAwAAAtK4W9Tukx8AAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-01-13T14:37:49.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EngulfingPattern.mqh",
+              "DocumentMoniker": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\EngulfingPattern.mqh",
+              "RelativeDocumentMoniker": "SourceCode\\Include\\EngulfingPattern.mqh",
+              "ToolTip": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\EngulfingPattern.mqh",
+              "RelativeToolTip": "SourceCode\\Include\\EngulfingPattern.mqh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB1SURBVDhPY6AI/P//H8qiMjjUyhMDZRIETFAaHSyG0gQBLgOIBhQbwAilUQAwDECh6wjEpkB8xq76y36QODaAzwWzgFgSiGcDDSwEi2AB\u002BAzwANpcBKKBuBIsQiyAegEO0PnIYOBjgWYGREFpGEDnDxrAwAAAtK4W9Tukx8AAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-01-13T14:37:39.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VLevelBreakout.mqh",
+              "DocumentMoniker": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\VLevelBreakout.mqh",
+              "RelativeDocumentMoniker": "SourceCode\\Include\\VLevelBreakout.mqh",
+              "ToolTip": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\VLevelBreakout.mqh",
+              "RelativeToolTip": "SourceCode\\Include\\VLevelBreakout.mqh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB1SURBVDhPY6AI/P//H8qiMjjUyhMDZRIETFAaHSyG0gQBLgOIBhQbwAilUQAwDECh6wjEpkB8xq76y36QODaAzwWzgFgSiGcDDSwEi2AB\u002BAzwANpcBKKBuBIsQiyAegEO0PnIYOBjgWYGREFpGEDnDxrAwAAAtK4W9Tukx8AAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-01-13T14:37:27.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ALevelBreakout.mqh",
+              "DocumentMoniker": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\ALevelBreakout.mqh",
+              "RelativeDocumentMoniker": "SourceCode\\Include\\ALevelBreakout.mqh",
+              "ToolTip": "C:\\Users\\Ted\\Desktop\\TradingBotSystem\\SourceCode\\Include\\ALevelBreakout.mqh",
+              "RelativeToolTip": "SourceCode\\Include\\ALevelBreakout.mqh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB1SURBVDhPY6AI/P//H8qiMjjUyhMDZRIETFAaHSyG0gQBLgOIBhQbwAilUQAwDECh6wjEpkB8xq76y36QODaAzwWzgFgSiGcDDSwEi2AB\u002BAzwANpcBKKBuBIsQiyAegEO0PnIYOBjgWYGREFpGEDnDxrAwAAAtK4W9Tukx8AAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-01-13T14:31:50.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
